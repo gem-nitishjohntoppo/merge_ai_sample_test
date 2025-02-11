@@ -1,6 +1,7 @@
-# main branch
+# feature
 def main():
-    message = "Hello, world!"
+    name = "Alice"
+    message = f"Hello, {name}!"
     print(message)
 
 if __name__ == "__main__":
