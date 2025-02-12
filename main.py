@@ -1,0 +1,1 @@
+-e "# feature\n\ndef main():\n    name = \"Alirahul\"\n    message = f\"Hela1, {name}!\"\n    print(message)\n\nif __name__ == \"__main__\":\n    main()" 
