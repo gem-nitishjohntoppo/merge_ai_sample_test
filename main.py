@@ -1,1 +1,9 @@
--e "# feature\n\ndef main():\n    name = \"Alice\"\n    message = f\"Hello, {name}!\"\n    print(message)\n\nif __name__ == \"__main__\":\n    main()" 
+# feature
+
+def main():
+    name = "Alice"
+    message = f"Hello, {name}!"
+    print(message)
+
+if __name__ == "__main__":
+    main()
