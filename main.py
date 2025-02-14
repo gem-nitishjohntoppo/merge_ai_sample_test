@@ -1,8 +1,8 @@
 # feature
 
 def main():
-    name = "Alirahul"
-    message = f"Hela1, {name}!"
+    name = "SHarma"
+    message = f"Hello1, {name}!"
     print(message)
 
 if __name__ == "__main__":
