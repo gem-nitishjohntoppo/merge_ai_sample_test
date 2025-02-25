@@ -1,4 +1,4 @@
-def find_duplicates_optimized(lst):
+def find_duplicates(lst):
     seen = set()
     duplicates = set()
     for num in lst:  
